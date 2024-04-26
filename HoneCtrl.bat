@@ -11,7 +11,7 @@ REM MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 REM GNU Affero General Public License for more details.
 
 REM You should have received a copy of the GNU Affero General Public License
-REM along with this program.  If not, see <https://www.gnu.org/licenses/>.
+REM along with this program.  If not, see <https://www.gnu.org/licenses/>..
 
 @echo off
 title Preparing...
